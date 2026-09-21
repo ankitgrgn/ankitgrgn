@@ -1,33 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ankit Guragain</h1>
-<h3 align="center">BBA Student | Published Researcher | Technology in Business</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitgrgn&label=Profile%20views&color=0e75b6&style=flat" alt="ankitgrgn" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e2327&height=180&section=header&text=Ankit%20Guragain&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BBA%20Student%20%7C%20Published%20Researcher&descSize=16&descAlignY=58" width="100%" alt="Ankit Guragain" />
 
-<h3 align="left">About me</h3>
+<p><i>Interested in how technology can improve business and finance in Nepal.</i></p>
 
-- 🏫 Undergraduate Student, Bachelors in Business Administration @ <a href="https://ncc.tu.edu.np/">NCC</a>, Minbhawan, Nepal
-- 📚 Currently in 6th semester
-- 💼 Interested in banking, financial markets, and business technology
-- 🔬 Research on digital infrastructure and economic development in Nepal
-- 🌱 Learning web development and Python for data analysis
-- 🌐 Website: <a href="https://ankitguragain.com.np">ankitguragain.com.np</a>
+<a href="https://www.linkedin.com/in/ankitguragain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://ankitguragain.com.np"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge" alt="Website" /></a>
+<a href="https://scholar.google.com/citations?user=Urfg31MAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://orcid.org/0009-0007-1831-0268"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 
-<h3 align="left">Published research</h3>
+</div>
 
-**Digital Infrastructure Development and Its Role in Bridging Nepal's Urban-Rural Economic Divide**  
-Ankit Guragain and Binod Ghimire. *Journal of Service Innovation and Sustainable Development*, Aug 2026.  
-A mixed-methods study of how digital infrastructure affects economic gaps between urban and rural areas in Nepal, using primary data from 46 businesses and 33 individuals, along with national reports.
+---
 
-📄 <a href="https://www.researchgate.net/publication/412355113_Digital_Infrastructure_Development_and_Its_Role_in_Bridging_Nepal's_Urban-Rural_Economic_Divide">ResearchGate</a> | <a href="https://scholar.google.com/citations?user=Urfg31MAAAAJ&hl=en">Google Scholar</a>
+## 👤 About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🎓 Bachelor of Business Administration (BBA), 6th semester, at [NCC](https://ncc.tu.edu.np/), Minbhawan, Nepal
+- 💼 Interests: banking, financial markets, and business technology
+- 🔬 Research focus: digital infrastructure and economic development in Nepal
+- 🌱 Currently learning: web development and Python for data analysis
 
-<a href="https://www.linkedin.com/in/ankitguragain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit Guragain LinkedIn" height="30" width="40" /></a>
+## 📚 Publication
 
-</p>
+**Digital Infrastructure Development and Its Role in Bridging Nepal's Urban-Rural Economic Divide**
+Ankit Guragain, Binod Ghimire
+*Journal of Service Innovation and Sustainable Development*, August 2026
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+A mixed-methods study examining how digital infrastructure affects economic disparities between urban and rural areas in Nepal, based on primary data from 46 businesses and 33 individual respondents, combined with national reports.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgrgn&show_icons=true&locale=en" alt="ankitgrgn" /></p>
+## 🛠️ Skills & Tools
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square" alt="Adobe XD" />
+
+## 📫 Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ankitguragain) or visit my website at [ankitguragain.com.np](https://ankitguragain.com.np).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e2327&height=100&section=footer" width="100%" alt="" />
